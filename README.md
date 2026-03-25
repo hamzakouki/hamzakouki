@@ -1,6 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hamza :)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋 I'm Hamza :)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+💻 Full-Stack Developer
+
+## 🚀 Tech Stack
+
+* Java / Spring Boot
+* Angular
+* JavaScript
+* Go
+* Rust
+* PostgreSQL
+* Docker
+
+## 📌 Projects
+
+* Full Stack Blog Platform (Spring Boot + Angular)
+* REST API Projects
+* Web Applications
+
+## 🌱 Currently Learning
+
+* System Design
+* Advanced Backend Development
+* AI Concepts
+
+## 📫 Contact Me
+
+* LinkedIn: https://www.linkedin.com/in/hkouki/
+* GitHub: https://github.com/hamzakouki
